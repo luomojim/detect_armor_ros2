@@ -9,11 +9,14 @@
     <img alt="platform" src="https://img.shields.io/badge/platform-Ubuntu%2024.04-E95420?logo=ubuntu">
 </div>
 <div>
+    <a href="https://github.com/luomojim/detect_armor_ros2" target="_blank">
+  <img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github">
+</a>
     <img alt="license" src="https://img.shields.io/badge/license-MIT-2ea44f">
 </div>
 <br>
 
-基于 ROS 2 Jazzy + OpenCV + cpp 的装甲板检测与位姿解算工程。从视频流中检测装甲板，进行 PnP 位姿求解，并发布 ROS 话题与 TF 供可视化和其他节点使用。
+基于 ROS 2 Jazzy + OpenCV + cpp 的装甲板检测与位姿解算工程。从视频流中检测装甲板，进行 PnP 位姿求解，并发布 ROS 话题与 TF 供可视化和其他节点使用。**如果该项目对你有帮助**
 
 ![show](docs/show.gif)
 
